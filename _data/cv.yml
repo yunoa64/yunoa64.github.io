@@ -13,7 +13,7 @@
   contents:
     - title: Master
       institution: University of Seoul, Seoul, Republic of Korea
-      year: 2023
+      year: 2023 - now
       description:
         - Department of Computer Science and Engineering
         - Under Supervision of Professor Hyunggu Jung
@@ -31,7 +31,7 @@
       year: 2021 - 2022
       description:
         - Human-Centered Artificial Intelligence Lab (HCAIL)
-        - Supervisor: Prof. Hyunggu Jung
+        - Under Supervision of Professor Hyunggu Jung
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
@@ -42,6 +42,7 @@
       description:
         - Discrete Mathematics
         - Programming Languages
+    - title: Teaching Assistant
       year: 2023
       description:
         - Discrete Mathematics
@@ -53,6 +54,7 @@
         - CSCW 2022
         - SIGCHI Korea Local Chapter Summer Event 2022
         - ACM FAccT 2022
+    - title: Student Volunteer
       year: 2023
       description:
         - IUI 2023
