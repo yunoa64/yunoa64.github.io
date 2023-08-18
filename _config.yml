@@ -273,11 +273,11 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Hyunmin]
+  first_name: [Lee]
 
   style: apa
-  locale: en
+  locale: ko
 
   source: /_bibliography/
   bibliography: papers.bib
