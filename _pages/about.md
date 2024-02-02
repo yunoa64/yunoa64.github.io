@@ -18,6 +18,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello, my name is Hyunmin Lee and I am currently working on my Master's degree in the Department of Computer Science and Engineering, in the University of Seoul. I'm under the supervision of [Prof. Hyunggu Jung](http://www.hyunggujung.com/) at [Human-Centered Artificial Intelligence Lab (HCAIL)](https://hcail.uos.ac.kr/).
+Hello!!, my name is Hyunmin Lee and I am currently working on my Master's degree in the Department of Computer Science and Engineering, in the University of Seoul. I'm under the supervision of [Prof. Hyunggu Jung](http://www.hyunggujung.com/) at [Human-Centered Artificial Intelligence Lab (HCAIL)](https://hcail.uos.ac.kr/).
 
 My fields of interest are human-computer interaction(HCI), artificial intelligence(AI), accessibility, and data visualization. Feel free to contact me via e-mail for any questions or any kind of collaboration or cooperation.
